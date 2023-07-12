@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="Shift-JIS"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" width="1920px" height="1080px" viewBox="0 0 1920 1080" preserveAspectRatio="xMidYMid" fill-rule="evenodd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="0" y="0" width="100%" height="100%" fill="#000000" stroke="#ffffff" stroke-width="0" />
+<rect x="1070.0" y="600.0" width="114.28571428571422" height="430.0" fill="#640000" stroke="#ffffff" stroke-width="None" />
+<rect x="1755.7142857142858" y="600.0" width="114.28571428571422" height="430.0" fill="#000064" stroke="#ffffff" stroke-width="None" />
+<line x1="1070.0" y1="600.0" x2="1070.0" y2="1030.0" stroke="#00ff00" stroke-width="3" stroke-opacity="1" stroke-linecap="batt" />
+<line x1="1184.2857142857142" y1="600.0" x2="1184.2857142857142" y2="1030.0" stroke="#00ff00" stroke-width="3" stroke-opacity="1" stroke-linecap="batt" />
+<line x1="1298.5714285714287" y1="600.0" x2="1298.5714285714287" y2="1030.0" stroke="#00ff00" stroke-width="3" stroke-opacity="1" stroke-linecap="batt" />
+<line x1="1412.857142857143" y1="600.0" x2="1412.857142857143" y2="1030.0" stroke="#00ff00" stroke-width="3" stroke-opacity="1" stroke-linecap="batt" />
+<line x1="1527.142857142857" y1="600.0" x2="1527.142857142857" y2="1030.0" stroke="#00ff00" stroke-width="3" stroke-opacity="1" stroke-linecap="batt" />
+<line x1="1641.4285714285716" y1="600.0" x2="1641.4285714285716" y2="1030.0" stroke="#00ff00" stroke-width="3" stroke-opacity="1" stroke-linecap="batt" />
+<line x1="1755.7142857142858" y1="600.0" x2="1755.7142857142858" y2="1030.0" stroke="#00ff00" stroke-width="3" stroke-opacity="1" stroke-linecap="batt" />
+<line x1="1870.0" y1="600.0" x2="1870.0" y2="1030.0" stroke="#00ff00" stroke-width="3" stroke-opacity="1" stroke-linecap="batt" />
+<line x1="1070.0" y1="600.0" x2="1870.0" y2="600.0" stroke="#00ff00" stroke-width="3" stroke-opacity="1" stroke-linecap="batt" />
+<line x1="1070.0" y1="671.6666666666666" x2="1870.0" y2="671.6666666666666" stroke="#00ff00" stroke-width="3" stroke-opacity="1" stroke-linecap="batt" />
+<line x1="1070.0" y1="743.3333333333334" x2="1870.0" y2="743.3333333333334" stroke="#00ff00" stroke-width="3" stroke-opacity="1" stroke-linecap="batt" />
+<line x1="1070.0" y1="815.0" x2="1870.0" y2="815.0" stroke="#00ff00" stroke-width="3" stroke-opacity="1" stroke-linecap="batt" />
+<line x1="1070.0" y1="886.6666666666667" x2="1870.0" y2="886.6666666666667" stroke="#00ff00" stroke-width="3" stroke-opacity="1" stroke-linecap="batt" />
+<line x1="1070.0" y1="958.3333333333334" x2="1870.0" y2="958.3333333333334" stroke="#00ff00" stroke-width="3" stroke-opacity="1" stroke-linecap="batt" />
+<line x1="1070.0" y1="1030.0" x2="1870.0" y2="1030.0" stroke="#00ff00" stroke-width="3" stroke-opacity="1" stroke-linecap="batt" />
+<text x="1093.8095238095239" y="580.0" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >Sun</text>
+<text x="1208.0952380952383" y="580.0" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >Mon</text>
+<text x="1322.3809523809525" y="580.0" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >Tue</text>
+<text x="1436.6666666666667" y="580.0" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >Wed</text>
+<text x="1550.952380952381" y="580.0" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >Thu</text>
+<text x="1665.2380952380954" y="580.0" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >Fri</text>
+<text x="1779.5238095238096" y="580.0" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >Sat</text>
+<text x="1070.0" y="497.0" font-family="monospace" font-size="51.5" fill="#00ff00" stroke="#ffffff" stroke-width="0" >July  2023</text>
+<text x="1075.0" y="650.0" font-family="monospace" font-size="50" fill="#007f00" stroke="#ffffff" stroke-width="0" >25</text>
+<text x="1189.2857142857142" y="650.0" font-family="monospace" font-size="50" fill="#007f00" stroke="#ffffff" stroke-width="0" >26</text>
+<text x="1303.5714285714287" y="650.0" font-family="monospace" font-size="50" fill="#007f00" stroke="#ffffff" stroke-width="0" >27</text>
+<text x="1417.857142857143" y="650.0" font-family="monospace" font-size="50" fill="#007f00" stroke="#ffffff" stroke-width="0" >28</text>
+<text x="1532.142857142857" y="650.0" font-family="monospace" font-size="50" fill="#007f00" stroke="#ffffff" stroke-width="0" >29</text>
+<text x="1646.4285714285716" y="650.0" font-family="monospace" font-size="50" fill="#007f00" stroke="#ffffff" stroke-width="0" >30</text>
+<text x="1760.7142857142858" y="650.0" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >1</text>
+<text x="1075.0" y="721.6666666666666" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >2</text>
+<text x="1189.2857142857142" y="721.6666666666666" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >3</text>
+<text x="1303.5714285714287" y="721.6666666666666" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >4</text>
+<text x="1417.857142857143" y="721.6666666666666" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >5</text>
+<text x="1532.142857142857" y="721.6666666666666" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >6</text>
+<text x="1646.4285714285716" y="721.6666666666666" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >7</text>
+<text x="1760.7142857142858" y="721.6666666666666" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >8</text>
+<text x="1075.0" y="793.3333333333334" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >9</text>
+<text x="1189.2857142857142" y="793.3333333333334" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >10</text>
+<text x="1303.5714285714287" y="793.3333333333334" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >11</text>
+<text x="1417.857142857143" y="793.3333333333334" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >12</text>
+<text x="1532.142857142857" y="793.3333333333334" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >13</text>
+<text x="1646.4285714285716" y="793.3333333333334" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >14</text>
+<text x="1760.7142857142858" y="793.3333333333334" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >15</text>
+<text x="1075.0" y="865.0" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >16</text>
+<text x="1189.2857142857142" y="865.0" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >17</text>
+<text x="1303.5714285714287" y="865.0" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >18</text>
+<text x="1417.857142857143" y="865.0" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >19</text>
+<text x="1532.142857142857" y="865.0" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >20</text>
+<text x="1646.4285714285716" y="865.0" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >21</text>
+<text x="1760.7142857142858" y="865.0" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >22</text>
+<text x="1075.0" y="936.6666666666667" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >23</text>
+<text x="1189.2857142857142" y="936.6666666666667" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >24</text>
+<text x="1303.5714285714287" y="936.6666666666667" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >25</text>
+<text x="1417.857142857143" y="936.6666666666667" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >26</text>
+<text x="1532.142857142857" y="936.6666666666667" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >27</text>
+<text x="1646.4285714285716" y="936.6666666666667" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >28</text>
+<text x="1760.7142857142858" y="936.6666666666667" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >29</text>
+<text x="1075.0" y="1008.3333333333334" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >30</text>
+<text x="1189.2857142857142" y="1008.3333333333334" font-family="monospace" font-size="50" fill="#00ff00" stroke="#ffffff" stroke-width="0" >31</text>
+<text x="1303.5714285714287" y="1008.3333333333334" font-family="monospace" font-size="50" fill="#007f00" stroke="#ffffff" stroke-width="0" >1</text>
+<text x="1417.857142857143" y="1008.3333333333334" font-family="monospace" font-size="50" fill="#007f00" stroke="#ffffff" stroke-width="0" >2</text>
+<text x="1532.142857142857" y="1008.3333333333334" font-family="monospace" font-size="50" fill="#007f00" stroke="#ffffff" stroke-width="0" >3</text>
+<text x="1646.4285714285716" y="1008.3333333333334" font-family="monospace" font-size="50" fill="#007f00" stroke="#ffffff" stroke-width="0" >4</text>
+<text x="1760.7142857142858" y="1008.3333333333334" font-family="monospace" font-size="50" fill="#007f00" stroke="#ffffff" stroke-width="0" >5</text>
+</svg>
